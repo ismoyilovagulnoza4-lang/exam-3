@@ -1,0 +1,61 @@
+.section {
+  background-color: #f8f8f8;
+  display: flex;
+}
+.popular {
+  margin-top: 120px;
+  margin-left: 120px;
+  color: #bb2339;
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 100%;
+  letter-spacing: 3%;
+  text-transform: capitalize;
+}
+.images {
+  margin-top: 120px;
+  background-color: white;
+  border: 1px;
+  margin-left: 1000px;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.divv {
+  margin-top: 30px;
+  align-items: center;
+}
+.main-1 {
+  margin-left: 95px;
+  background-color: #ffffff;
+  border-radius: 14px;
+  margin-bottom: 120px;
+}
+.hm {
+  padding-left: 30px;
+}
+.s {
+  padding-right: 110px;
+}
+.star {
+  padding-left: 80px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.puls {
+  padding-left: 0px;
+  padding-bottom: 40px;
+  color: #bb2339;
+  font-family: Open Sans;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.food {
+  padding-top: 20px;
+}

@@ -1,0 +1,78 @@
+.select {
+  background-color: #f4f4f4;
+}
+.pro {
+  font-family: Oswald;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 130%;
+  letter-spacing: 4%;
+  text-transform: capitalize;
+  margin-left: 740px;
+  margin-bottom: 8px;
+  padding-top: 100px;
+}
+.h-5 {
+  font-family: Oswald;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 130%;
+  letter-spacing: 3%;
+  text-transform: capitalize;
+  margin-left: 645px;
+  padding-bottom: 60px;
+}
+.rasm {
+  margin-left: 770px;
+  margin-bottom: 8px;
+}
+.select {
+  background-color: #f4f4f4;
+  display: flex;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.divv {
+  margin-top: 30px;
+  align-items: center;
+}
+.mainss {
+  margin-left: 35px;
+  margin-right: 35px;
+  background-color: #ffffff;
+  border-radius: 14px;
+  border: 1px solid #2424241a;
+}
+.hms {
+  padding-left: 20px;
+  font-family: Inter;
+  font-weight: 600;
+  font-style: Semi Bold;
+  font-size: 24px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.sus {
+  padding-left: 20px;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0%;
+  padding-bottom: 20px;
+}
+.vaqt {
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+.idk {
+  margin-left: 720px;
+  padding-bottom: 90px;
+  padding-top: 40px;
+}

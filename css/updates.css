@@ -1,0 +1,114 @@
+.updates-1 {
+  background-color: #ffffff;
+  display: flex;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.divv {
+  margin-top: 30px;
+  align-items: center;
+}
+.main-2 {
+  margin-right: 47px;
+  margin-left: 47px;
+  background-color: #ffffff;
+  border-radius: 14px;
+  margin-bottom: 120px;
+  border-radius: 14px;
+  border: 1px solid #2424241a;
+}
+.haha {
+  padding-left: 20px;
+  padding-right: 58px;
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  text-transform: capitalize;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.sas {
+  padding-right: 29px;
+  padding-left: 29px;
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  padding-bottom: 20px;
+}
+.read {
+  display: flex;
+  font-family: Oswald;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 4%;
+  color: #bb2339;
+}
+.sana {
+  display: flex;
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  padding-left: 320px;
+  padding-bottom: 30px;
+}
+.new {
+  font-family: Oswald;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 130%;
+  letter-spacing: 4%;
+  text-transform: capitalize;
+  margin-left: 740px;
+  margin-bottom: 8px;
+  padding-top: 100px;
+}
+.huh {
+  font-family: Oswald;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 130%;
+  letter-spacing: 3%;
+  text-transform: capitalize;
+  margin-left: 630px;
+  padding-bottom: 60px;
+  color: #bb2339;
+}
+.rasms {
+  margin-left: 740px;
+  margin-bottom: 8px;
+}
+.ok {
+  width: 149px;
+  height: 44px;
+  background-color: white;
+  color: black;
+  border: 1px solid #bb2339;
+  border-radius: 100px;
+  font-family: Oswald;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 175%;
+  letter-spacing: 4%;
+  margin-left: 680px;
+  margin-bottom: 120px;
+}
+.videos {
+  background-color: white;
+}
+.video {
+  width: 1520px;
+  margin-bottom: 120px;
+}
+.photo {
+  background-color: #f4f4f4;
+}

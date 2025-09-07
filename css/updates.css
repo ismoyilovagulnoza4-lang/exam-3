@@ -106,7 +106,7 @@
   background-color: white;
 }
 .video {
-  width: 1520px;
+  max-width: 100%;
   margin-bottom: 120px;
 }
 .photo {

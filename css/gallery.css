@@ -46,7 +46,7 @@
   text-transform: capitalize;
 }
 .imggg {
-  width: 800px;
+  max-width: 100%;
   height: 400px;
 }
 .qizil {

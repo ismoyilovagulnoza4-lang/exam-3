@@ -1,0 +1,77 @@
+.letter {
+  background-color: #bb2339;
+  display: flex;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.divv {
+  margin-top: 30px;
+  align-items: center;
+}
+.main-4 {
+  background-color: #bb2339;
+}
+.hmms {
+  padding-left: 30px;
+  background-color: #bb2339;
+  color: white;
+  font-family: Oswald;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 130%;
+  letter-spacing: 4%;
+  text-transform: capitalize;
+}
+.s {
+  padding-right: 110px;
+}
+.star {
+  padding-left: 80px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.pulss {
+  background-color: #bb2339;
+  color: white;
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 4%;
+  text-align: center;
+}
+.links {
+  display: flex;
+}
+.hi {
+  border: 1px;
+  padding-top: 45px;
+}
+.foods {
+  max-width: 100%;
+  background-color: #bb2339;
+  margin-left: 350px;
+}
+.really {
+  padding-left: 350px;
+  padding-right: 350px;
+}
+.okak {
+  padding-left: 40px;
+  margin-left: 15px;
+}
+.bibi {
+  padding-top: 10px;
+}
+.hello {
+  margin-left: 630px;
+}
+.shop {
+  color: white;
+  margin-left: 670px;
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
